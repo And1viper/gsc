@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/gsc/static/css/main.fa8e20f5.chunk.css",
+    "main.js": "/gsc/static/js/main.6c2cf385.chunk.js",
+    "main.js.map": "/gsc/static/js/main.6c2cf385.chunk.js.map",
+    "runtime-main.js": "/gsc/static/js/runtime-main.a2bd19ec.js",
+    "runtime-main.js.map": "/gsc/static/js/runtime-main.a2bd19ec.js.map",
+    "static/js/2.5500df34.chunk.js": "/gsc/static/js/2.5500df34.chunk.js",
+    "static/js/2.5500df34.chunk.js.map": "/gsc/static/js/2.5500df34.chunk.js.map",
+    "index.html": "/gsc/index.html",
+    "static/css/main.fa8e20f5.chunk.css.map": "/gsc/static/css/main.fa8e20f5.chunk.css.map",
+    "static/js/2.5500df34.chunk.js.LICENSE.txt": "/gsc/static/js/2.5500df34.chunk.js.LICENSE.txt",
+    "static/media/stylesheet.css": "/gsc/static/media/RFDewi-UltralightItalic.bd7f8079.ttf",
+    "static/media/coherent.svg": "/gsc/static/media/coherent.cc4c35b0.svg",
+    "static/media/coherent.e82d6ae6.svg": "/gsc/static/media/coherent.e82d6ae6.svg",
+    "static/media/coherentlogo1.39e0733e.svg": "/gsc/static/media/coherentlogo1.39e0733e.svg",
+    "static/media/dlp-printer.8bccf2dc.png": "/gsc/static/media/dlp-printer.8bccf2dc.png",
+    "static/media/facebookicon.280b3ac8.svg": "/gsc/static/media/facebookicon.280b3ac8.svg",
+    "static/media/fdm-printer.a0faa289.png": "/gsc/static/media/fdm-printer.a0faa289.png",
+    "static/media/garyshgraylogo.c9438d7e.svg": "/gsc/static/media/garyshgraylogo.c9438d7e.svg",
+    "static/media/garyshweb.92959b6a.png": "/gsc/static/media/garyshweb.92959b6a.png",
+    "static/media/garyshweb1.f5a80aec.png": "/gsc/static/media/garyshweb1.f5a80aec.png",
+    "static/media/gsclogo.f2c97792.svg": "/gsc/static/media/gsclogo.f2c97792.svg",
+    "static/media/inntech-main-logo.192dd8cf.svg": "/gsc/static/media/inntech-main-logo.192dd8cf.svg",
+    "static/media/inntech.svg": "/gsc/static/media/inntech.977fec12.svg",
+    "static/media/inntech.f4e42213.svg": "/gsc/static/media/inntech.f4e42213.svg",
+    "static/media/instaicon.b551bbef.svg": "/gsc/static/media/instaicon.b551bbef.svg",
+    "static/media/index.css": "/gsc/static/media/landing-purpose-img.c5a218d0.png",
+    "static/media/microscope.7d2c9e54.png": "/gsc/static/media/microscope.7d2c9e54.png",
+    "static/media/slm-printer.b23f91e4.png": "/gsc/static/media/slm-printer.b23f91e4.png",
+    "static/media/tft-display.2f1e6d43.png": "/gsc/static/media/tft-display.2f1e6d43.png",
+    "static/media/vialanding.ecb11e10.png": "/gsc/static/media/vialanding.ecb11e10.png",
+    "static/media/viasticker.eee9f01b.png": "/gsc/static/media/viasticker.eee9f01b.png",
+    "static/media/whatsappicon.4dd511f4.svg": "/gsc/static/media/whatsappicon.4dd511f4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2bd19ec.js",
+    "static/js/2.5500df34.chunk.js",
+    "static/css/main.fa8e20f5.chunk.css",
+    "static/js/main.6c2cf385.chunk.js"
+  ]
+}
