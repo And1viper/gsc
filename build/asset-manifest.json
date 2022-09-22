@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8e0bdae9.chunk.css",
+    "main.js": "/static/js/main.f8b6d1b5.chunk.js",
+    "main.js.map": "/static/js/main.f8b6d1b5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0ed85b83.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0ed85b83.js.map",
+    "static/js/2.f75e9922.chunk.js": "/static/js/2.f75e9922.chunk.js",
+    "static/js/2.f75e9922.chunk.js.map": "/static/js/2.f75e9922.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8e0bdae9.chunk.css.map": "/static/css/main.8e0bdae9.chunk.css.map",
+    "static/js/2.f75e9922.chunk.js.LICENSE.txt": "/static/js/2.f75e9922.chunk.js.LICENSE.txt",
+    "static/media/3d-printer-img.31d835c2.svg": "/static/media/3d-printer-img.31d835c2.svg",
+    "static/media/stylesheet.css": "/static/media/RFDewi-UltralightItalic.bd7f8079.ttf",
+    "static/media/coherent.svg": "/static/media/coherent.cc4c35b0.svg",
+    "static/media/coherent.e82d6ae6.svg": "/static/media/coherent.e82d6ae6.svg",
+    "static/media/coherentlogo1.39e0733e.svg": "/static/media/coherentlogo1.39e0733e.svg",
+    "static/media/dlp-printer.8bccf2dc.png": "/static/media/dlp-printer.8bccf2dc.png",
+    "static/media/facebookicon.280b3ac8.svg": "/static/media/facebookicon.280b3ac8.svg",
+    "static/media/fdm-printer.a0faa289.png": "/static/media/fdm-printer.a0faa289.png",
+    "static/media/garyshgraylogo.c9438d7e.svg": "/static/media/garyshgraylogo.c9438d7e.svg",
+    "static/media/garyshlogo.5935b04c.svg": "/static/media/garyshlogo.5935b04c.svg",
+    "static/media/garyshweb.92959b6a.png": "/static/media/garyshweb.92959b6a.png",
+    "static/media/garyshweb1.f5a80aec.png": "/static/media/garyshweb1.f5a80aec.png",
+    "static/media/inntech-main-logo.192dd8cf.svg": "/static/media/inntech-main-logo.192dd8cf.svg",
+    "static/media/inntech.svg": "/static/media/inntech.977fec12.svg",
+    "static/media/inntech.f4e42213.svg": "/static/media/inntech.f4e42213.svg",
+    "static/media/instaicon.b551bbef.svg": "/static/media/instaicon.b551bbef.svg",
+    "static/media/index.css": "/static/media/landing-purpose-img.c5a218d0.png",
+    "static/media/microscope.7d2c9e54.png": "/static/media/microscope.7d2c9e54.png",
+    "static/media/slm-printer.b23f91e4.png": "/static/media/slm-printer.b23f91e4.png",
+    "static/media/tft-display.2f1e6d43.png": "/static/media/tft-display.2f1e6d43.png",
+    "static/media/whatsappicon.4dd511f4.svg": "/static/media/whatsappicon.4dd511f4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ed85b83.js",
+    "static/js/2.f75e9922.chunk.js",
+    "static/css/main.8e0bdae9.chunk.css",
+    "static/js/main.f8b6d1b5.chunk.js"
+  ]
+}
